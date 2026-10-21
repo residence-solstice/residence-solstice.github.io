@@ -10,3 +10,8 @@ puis « Commit changes ». En ligne en 1 à 2 minutes.
 **À ne jamais faire** : renommer ou supprimer le dépôt `residence-solstice.github.io` (organisation residence-solstice), renommer le dossier `102`,
 désactiver GitHub Pages, ou rendre le dépôt privé sur un compte gratuit (Pages s'arrêterait).
 Ne jamais mettre de mot de passe (Wi-Fi ou autre) dans ce dépôt : il est public.
+
+
+## QR des produits en vitrine (Suite 102)
+- `/102/p1/`, `/102/p2/`, `/102/p3/` : une adresse fixe par emplacement de la vitrine.
+  Changer de produit = changer la cible dans `102/pN/index.html` (2 lignes), la plaque gravée ne bouge pas.
